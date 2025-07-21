@@ -1,8 +1,9 @@
 import { Link } from "react-scroll";
+
 const rooms = [
-  { name: "Deluxe Room", price: "₹2000/night", img: "/src/img/room.jpeg" },
-  { name: "Suite Room", price: "₹3500/night", img: "/src/img/room.jpeg" },
-  { name: "Family Room", price: "₹4500/night", img: "/src/img/room.jpeg" },
+  { name: "Deluxe Room", price: "₹2000/night", img: "/public/img/room.jpeg" },
+  { name: "Suite Room", price: "₹3500/night", img: "/public/img/room.jpeg" },
+  { name: "Family Room", price: "₹4500/night", img: "/public/img/room.jpeg" },
 ];
 
 export default function Rooms() {
