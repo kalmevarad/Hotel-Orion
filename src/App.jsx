@@ -5,6 +5,7 @@ import Rooms from "./components/Rooms";
 import FunctionHall from "./components/FunctionHall";
 import BookingForm from "./components/BookingForm";
 import Contact from "./components/Contact";
+import Restaurant from "./views/Restaurant";
 
 function App() {
   return (
